@@ -1,0 +1,10 @@
+id_mail;name_dest;subject_mail;from_mail;to_mail;cc_mail;bcc_mail;body_mail;send_file;path_file
+0;QUITO GONZALES, ERNESTO EDGAR;Alert of Process;procesosautomaticos@servicios.grupokonecta.pe;ernesto.quito@grupokonecta.com;;;Funcion html;0;logs\info_event_log.csv
+1;JUAREZ MAZA, SANTOS PASCUAL;Alert of Process;procesosautomaticos@servicios.grupokonecta.pe;sjuarezm@grupokonecta.com;;;Funcion html;0;logs\info_event_log.csv
+2;BUSTAMANTE ALBAï¿½IL, JESUS CARLOS ALONSO;Alert of Process;procesosautomaticos@servicios.grupokonecta.pe;jbustamante@grupokonecta.com;;;Funcion html;0;logs\info_event_log.csv
+3;MARTINEZ PORTOCARRERO, CESAR FELIX;Alert of Process;procesosautomaticos@servicios.grupokonecta.pe;cemartinezp@grupokonecta.pe;;;Funcion html;0;logs\info_event_log.csv
+4;EQUIPOKONECTA;TEST;procesosautomaticos@servicios.grupokonecta.pe;ernesto.quito@grupokonecta.com;sjuarezm@grupokonecta.com;jbustamante@grupokonecta.com;Funcion html;0;logs
+5;ALERTA DESARROLLO;RE-PROCESO DETECTADO;procesosautomaticos@servicios.grupokonecta.pe;"ernesto.quito@grupokonecta.com;cemartinezp@grupokonecta.pe";sjuarezm@grupokonecta.com;jbustamante@grupokonecta.com;Funcion html;0;logs
+6;EQUIPO DESARROLLO;¡{0} - ALERTA!;procesosautomaticos@servicios.grupokonecta.pe;"ernesto.quito@grupokonecta.com;asimona@grupokonecta.com;cesarfmp20@gmail.com;ernesto.quito@grupokonecta.com";cemartinezp@grupokonecta.pe;;Funcion html;0;logs
+7;EQUIPO DESARROLLO;¡{0} - ALERTA DE PROCESO DE CARGA DE ARCHIVOS!;procesosautomaticos@servicios.grupokonecta.pe;"ernesto.quito@grupokonecta.com;asimona@grupokonecta.com;cesarfmp20@gmail.com;ernesto.quito@grupokonecta.com";"mgalvanc@grupokonecta.pe;cemartinezp@grupokonecta.pe";;Funcion html;0;logs
+8;EQUIPO DESARROLLO;¡{0} - ALERTA DE PROCESO DE CARGA DE ARCHIVOS!;procesosautomaticos@servicios.grupokonecta.pe;"ernesto.quito@grupokonecta.com;asimona@grupokonecta.com;cesarfmp20@gmail.com;ernesto.quito@grupokonecta.com";"mgalvanc@grupokonecta.pe;cemartinezp@grupokonecta.pe";;Funcion html;0;logs
